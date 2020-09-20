@@ -1,0 +1,57 @@
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe.config
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.pdb
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csprojAssemblyReference.cache
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.DangNhap.resources
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.Properties.Resources.resources
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csproj.GenerateResource.cache
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.pdb
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhChinh.resources
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhQuanLyPhong.resources
+E:\Year2\Cong Nghe Phan Mem\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhChiTiet.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe.config
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.pdb
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.DangNhap.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhChinh.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhChiTiet.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhQuanLyPhong.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.Properties.Resources.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csproj.GenerateResource.cache
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.pdb
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhQuanLyNhanVien.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhQuanLyKhachHang.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csprojAssemblyReference.cache
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatDichVu.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatLichLamViec.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatLoaiPhong.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatThongTinNhanVien.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatVatTu.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ThongKe.resources
+E:\Year2\Cong Nghe Phan Mem\Ly_Thuyet_Chieu_T4\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.LienHe.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe.config
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\bin\Debug\Do_An_Winform_Quan_Ly_Khach_San.pdb
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csprojAssemblyReference.cache
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatDichVu.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatLichLamViec.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatLoaiPhong.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatThongTinNhanVien.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.CapNhatVatTu.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.DangNhap.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.LienHe.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhChinh.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhChiTiet.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhQuanLyKhachHang.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhQuanLyNhanVien.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ManHinhQuanLyPhong.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.Properties.Resources.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.ThongKe.resources
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csproj.GenerateResource.cache
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.exe
+C:\Code\C#\Do_An_Winform_Quan_Ly_Khach_San\obj\Debug\Do_An_Winform_Quan_Ly_Khach_San.pdb
